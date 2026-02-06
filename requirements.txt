@@ -1,3 +1,3 @@
 python-dotenv~=1.2.1
-mysql~=0.0.3
+mysql-connector~=2.2.9
 interactions.py~=5.16.0
